@@ -1,0 +1,15 @@
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\bin\Debug\net10.0\06-Decisiones.exe
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\bin\Debug\net10.0\06-Decisiones.deps.json
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\bin\Debug\net10.0\06-Decisiones.runtimeconfig.json
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\bin\Debug\net10.0\06-Decisiones.dll
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\bin\Debug\net10.0\06-Decisiones.pdb
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\06-Decisiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\06-Decisiones.AssemblyInfoInputs.cache
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\06-Decisiones.AssemblyInfo.cs
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\06-Decisiones.csproj.CoreCompileInputs.cache
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\06-Decisiones.sourcelink.json
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\06-Decisiones.dll
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\refint\06-Decisiones.dll
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\06-Decisiones.pdb
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\06-Decisiones.genruntimeconfig.cache
+C:\Users\G A B R I E L\Desktop\Tareas del itla\Cuantrimestre 3\fundamentos-programacion-tds002\06-Decisiones\obj\Debug\net10.0\ref\06-Decisiones.dll
