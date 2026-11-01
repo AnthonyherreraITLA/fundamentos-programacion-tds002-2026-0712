@@ -28,4 +28,4 @@ namespace _04_Secuencial
             Console.WriteLine($"Temperatura: {fahrenheit:F2} °F equivale a {celsius:F2} °C");
         }
     }
-}
+} 
