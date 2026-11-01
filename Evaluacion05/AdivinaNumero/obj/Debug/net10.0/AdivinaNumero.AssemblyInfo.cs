@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdivinaNumero")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4282c8c94daa30c92de1ea4ad2e04a23953e74fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8961535c80784c5295ccb29f22496709660375")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdivinaNumero")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdivinaNumero")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
